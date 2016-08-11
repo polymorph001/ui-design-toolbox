@@ -1,5 +1,5 @@
 # UI Design Toolbox
-This **public** repo contains lists of various code snippets/repositories/apps that are relevant to UI development at Polymorph.
+This **public** repo contains lists of various code snippets/repositories/apps that are relevant to UI development at [Polymorph](http://polymorph.co.za).
 
 ## Code snippets and libraries
 
